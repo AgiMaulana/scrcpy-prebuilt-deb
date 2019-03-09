@@ -1,0 +1,9 @@
+Source: scrcpy
+Maintainer: "Built and packaged by Agi Maulana" <https://github.com/AgiMaulana>. Original credit by Genymobile.
+Version: 1.8
+Homepage: https://github.com/Genymobile/scrcpy
+Package: scrcpy
+Architecture: amd64
+Multi-Arch: foreign
+Description: This application provides display and control of Android devices connected on USB (or over TCP/IP).
+ View this project at https://github.com/Genymobile/scrcpy
